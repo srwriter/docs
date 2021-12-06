@@ -1,5 +1,3 @@
-# Getting Started
+# About Type N Speak
 
-Type your message and hear it spoken in different languages. 
-
-Adjust tone and pitch by dragging the toggle left or right on the bar.
+Simple type and speak tool to play back messages in different languages.
