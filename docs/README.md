@@ -1,4 +1,4 @@
-# Type N Speak Simple Docs
+# Type & Speak Simple Docs
 
 Quick project for the Type N Speak app using Docsify's documentation template.
 
