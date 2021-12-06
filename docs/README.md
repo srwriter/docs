@@ -1,3 +1,3 @@
-# Documentation
+# Docsify template
 
-> App Project Documentation.
+Testing out Docsify's documentation template.
