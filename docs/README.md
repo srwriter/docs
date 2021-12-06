@@ -1,3 +1,7 @@
-# Docsify template
+# Type N Speak Simple Docs
 
-Testing out Docsify's documentation template.
+Quick project for the Type N Speak App using Docsify's documentation template.
+
+Test app here: https://srwriter.github.io/typenspeak/
+
+
