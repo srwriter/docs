@@ -1,5 +1,5 @@
 - [Home](/)
 - [Overview](overview.md)
-- [Advantages](advantages.md)
+- [How It Works](howto.md)
 - [For Developers](fordevelopers.md)
 - [Demo](demo.md)
