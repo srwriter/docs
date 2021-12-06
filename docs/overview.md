@@ -1,3 +1,3 @@
 # About Type N Speak
 
-Simple type and speak tool to play back messages in different languages.
+Simple type and speak tool to voice messages in different languages.
