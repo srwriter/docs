@@ -1,6 +1,6 @@
-# Type N Speak Simple Docs
+# Type & Speak Simple Docs
 
-Quick project for the Type N Speak app using Docsify's documentation template.
+Mock documentation project for the type & speak app to test Docsify's template.
 
 Test app here: https://srwriter.github.io/typenspeak/
 
